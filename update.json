@@ -1,5 +1,6 @@
 {
-  "latest_version": "9.9.7",
-  "apk_url": "https://drive.google.com/uc?export=download&id=17FZLZVgdsmvKVlPQMSfVVamOTp-OyMF0",
-  "changelog": "Fix bug laporan, tambah About, tambah auto update"
+  "latest_version": "2.1.5",
+  "apk_url": "https://github.com/cettaflasher-spec/iservice/releases/download/v2.1.5/iServicePro_v2.1.5.apk",
+  "changelog": "- Fitur baru: Backup data otomatis\n- Perbaiki crash di Android 14\n- UI lebih smooth",
+  "force_update": false
 }
